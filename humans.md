@@ -11,7 +11,7 @@
 
 * Test name 1 - github: [github username](link-to-github-homepage)
 * Test name 2 - github: [github username](link-to-github-homepage)
-
+* Andrew Swan
 ## Mozilla Science Lab Fellows
 
 The workshop was originally developed by:
